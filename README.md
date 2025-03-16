@@ -124,7 +124,7 @@ git clone git@gitlab.example.com:group/project-name.git
 
 1. https://m.blog.naver.com/alice_k106/221468341565
 2. https://youtrack.jetbrains.com/issue/IJPL-84948/fatal-unable-to-access-https-gitlab.com-project.git-schannel-next-InitializeSecurityContext-failed-SECEUNTRUSTEDROOT-0x80090325
-3. docs.gitlab.com/omnibus/settings/ssl/ssl_troubleshooting/
+3. [docs.gitlab.com/omnibus/settings/ssl/ssl_troubleshooting/](https://docs.gitlab.com/omnibus/settings/ssl/ssl_troubleshooting/)
 
 [^1]: 자체 서명 인증서 또는 신뢰할 수 없는 루트 인증서를 사용할 가능성이 있습니다.
 [^2]: 오류 내용을 살펴보면 `schannel: SEC_E_UNTRUSTED_ROOT`라는 부분이 보입니다.
