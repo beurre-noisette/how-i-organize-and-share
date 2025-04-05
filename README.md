@@ -13,37 +13,35 @@
 
 ## 정리한 내용들 🗂️
 
-```bash
-📁 Database
- ├── 📝 [나도 한다 동시성 제어](Database/나도%20한다%20동시성%20제어.md)
- ├── 📝 [비관적 락, 낙관적 락](Database/비관적%20락,%20낙관적%20락.md)
- └── 📝 [트랜잭션 격리 수준](Database/트랜잭션%20격리%20수준.md)
+### 📁 Database
+- 📝 [나도 한다 동시성 제어](Database/나도%20한다%20동시성%20제어.md)
+- 📝 [비관적 락, 낙관적 락](Database/비관적%20락,%20낙관적%20락.md)
+- 📝 [트랜잭션 격리 수준](Database/트랜잭션%20격리%20수준.md)
 
-📁 Git
- ├── 📝 [Git Merge와 Rebase 이해하기](Git/Git%20Merge와%20Rebase%20이해하기%20브랜치%20동기화%20전략.md)
- ├── 📝 [GitHub 포크 저장소 동기화 가이드](Git/GitHub%20포크%20저장소%20동기화%20가이드.md)
- └── 📝 [GitLab 0x80090325 오류](Git/GitLab%200x80090325%20오류.md)
+### 📁 Git
+- 📝 [Git Merge와 Rebase 이해하기](Git/Git%20Merge와%20Rebase%20이해하기%20브랜치%20동기화%20전략.md)
+- 📝 [GitHub 포크 저장소 동기화 가이드](Git/GitHub%20포크%20저장소%20동기화%20가이드.md)
+- 📝 [GitLab 0x80090325 오류](Git/GitLab%200x80090325%20오류.md)
 
-📁 Java
- ├── 📁 Collection Framework
- │   └── 📝 [List](Java/Collection%20Framework/List.md)
- ├── 📁 JVM
- │   └── 📝 [와일드 카드 임포트](Java/JVM/와일드%20카드%20임포트.md)
- ├── 📁 Type
- │   ├── 📝 [BigDecimal](Java/Type/BigDecimal.md)
- │   ├── 📝 [Exception과 Error](Java/Type/Exception과%20Error.md)
- │   ├── 📝 [Java의 참조](Java/Type/Java의%20참조.md)
- │   └── 📝 [String pool](Java/Type/String%20pool.md)
+### 📁 Java
+- 📁 Collection Framework
+  - 📝 [List](Java/Collection%20Framework/List.md)
+- 📁 JVM
+  - 📝 [와일드 카드 임포트](Java/JVM/와일드%20카드%20임포트.md)
+- 📁 Type
+  - 📝 [BigDecimal](Java/Type/BigDecimal.md)
+  - 📝 [Exception과 Error](Java/Type/Exception과%20Error.md)
+  - 📝 [Java의 참조](Java/Type/Java의%20참조.md)
+  - 📝 [String pool](Java/Type/String%20pool.md)
 
-📁 JWT
- └── 📝 [About Session](JWT/About%20Session.md)
+### 📁 JWT
+- 📝 [About Session](JWT/About%20Session.md)
 
-📁 OOP
- └── 📝 [얕은 복사(Shallow copy)와 깊은 복사(Deep copy)](OOP/얕은%20복사(Shallow%20copy)와%20깊은%20복사(Deep%20copy).md)
+### 📁 OOP
+- 📝 [얕은 복사(Shallow copy)와 깊은 복사(Deep copy)](OOP/얕은%20복사(Shallow%20copy)와%20깊은%20복사(Deep%20copy).md)
 
-📁 Spring
- └── 📝 [Spring schedule(Cron Expression)](Spring/Spring%20schedule(Cron%20Expression).md)
+### 📁 Spring
+- 📝 [Spring schedule(Cron Expression)](Spring/Spring%20schedule(Cron%20Expression).md)
 
-📁 Windows
- └── 📝 [Windows 개발 환경에서의 권한 문제 해결 가이드](Windows/Windows%20개발%20환경에서의%20권한%20문제%20해결%20가이드.md)
-```
+### 📁 Windows
+- 📝 [Windows 개발 환경에서의 권한 문제 해결 가이드](Windows/Windows%20개발%20환경에서의%20권한%20문제%20해결%20가이드.md)
