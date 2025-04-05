@@ -20,15 +20,15 @@
  └── 📝 [트랜잭션 격리 수준](Database/트랜잭션%20격리%20수준.md)
 
 📁 Git
- ├── 📝 [Git Merge와 Rebase 이해하기](Git/Git%20Merge와%20Rebase%20이해하기%20보편적%20동기화%20가이드.md)
- ├── 📝 [GitHub 코드 저장소 동기화 가이드](Git/GitHub%20코드%20저장소%20동기화%20가이드.md)
+ ├── 📝 [Git Merge와 Rebase 이해하기](Git/Git%20Merge와%20Rebase%20이해하기%20브랜치%20동기화%20전략.md)
+ ├── 📝 [GitHub 포크 저장소 동기화 가이드](Git/GitHub%20포크%20저장소%20동기화%20가이드.md)
  └── 📝 [GitLab 0x80090325 오류](Git/GitLab%200x80090325%20오류.md)
 
 📁 Java
  ├── 📁 Collection Framework
  │   └── 📝 [List](Java/Collection%20Framework/List.md)
  ├── 📁 JVM
- │   └── 📝 [약한 참조 카드 인포트](Java/JVM/약한%20참조%20카드%20인포트.md)
+ │   └── 📝 [와일드 카드 임포트](Java/JVM/와일드%20카드%20임포트.md)
  ├── 📁 Type
  │   ├── 📝 [BigDecimal](Java/Type/BigDecimal.md)
  │   ├── 📝 [Exception과 Error](Java/Type/Exception과%20Error.md)
@@ -42,7 +42,7 @@
  └── 📝 [얕은 복사(Shallow copy)와 깊은 복사(Deep copy)](OOP/얕은%20복사(Shallow%20copy)와%20깊은%20복사(Deep%20copy).md)
 
 📁 Spring
- └── 📝 [Spring scheduler(Cron Expression)](Spring/Spring%20scheduler(Cron%20Expression).md)
+ └── 📝 [Spring schedule(Cron Expression)](Spring/Spring%20schedule(Cron%20Expression).md)
 
 📁 Windows
  └── 📝 [Windows 개발 환경에서의 권한 문제 해결 가이드](Windows/Windows%20개발%20환경에서의%20권한%20문제%20해결%20가이드.md)
