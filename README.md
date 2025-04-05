@@ -30,9 +30,9 @@
   - 📝 [와일드 카드 임포트](Java/JVM/와일드%20카드%20임포트.md)
 - 📁 Type
   - 📝 [BigDecimal](Java/Type/BigDecimal.md)
-- 📝 [Exception과 Error](Java/Type/Exception과%20Error.md)
-- 📝 [Java의 참조](Java/Type/Java의%20참조.md)
-- 📝 [String pool](Java/Type/String%20pool.md)
+- 📝 [Exception과 Error](Java/Exception과%20Error.md)
+- 📝 [Java의 참조](Java/Java의%20참조.md)
+- 📝 [String pool](Java/String%20pool.md)
 
 ### 📁 JWT
 - 📝 [About Session](JWT/About%20Session.md)
