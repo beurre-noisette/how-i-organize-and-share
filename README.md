@@ -14,9 +14,9 @@
 ## 정리한 내용들 🗂️
 
 ### 📁 DataBase
-- 📝 [나도 한다 동시성 제어](Database/나도%20한다%20동시성%20제어.md)
-- 📝 [비관적 락, 낙관적 락](Database/비관적%20락,%20낙관적%20락.md)
-- 📝 [트랜잭션 격리 수준](Database/트랜잭션%20격리%20수준.md)
+- 📝 [나도 한다 동시성 제어](DataBase/나도%20한다%20동시성%20제어.md)
+- 📝 [비관적 락, 낙관적 락](DataBase/비관적%20락,%20낙관적%20락.md)
+- 📝 [트랜잭션 격리 수준](DataBase/트랜잭션%20격리%20수준.md)
 
 ### 📁 Git
 - 📝 [Git Merge와 Rebase 이해하기](Git/Git%20Merge와%20Rebase%20이해하기%20브랜치%20동기화%20전략.md)
@@ -30,9 +30,9 @@
   - 📝 [와일드 카드 임포트](Java/JVM/와일드%20카드%20임포트.md)
 - 📁 Type
   - 📝 [BigDecimal](Java/Type/BigDecimal.md)
-  - 📝 [Exception과 Error](Java/Type/Exception과%20Error.md)
-  - 📝 [Java의 참조](Java/Type/Java의%20참조.md)
-  - 📝 [String pool](Java/Type/String%20pool.md)
+- 📝 [Exception과 Error](Java/Type/Exception과%20Error.md)
+- 📝 [Java의 참조](Java/Type/Java의%20참조.md)
+- 📝 [String pool](Java/Type/String%20pool.md)
 
 ### 📁 JWT
 - 📝 [About Session](JWT/About%20Session.md)
