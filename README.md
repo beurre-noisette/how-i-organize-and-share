@@ -17,6 +17,7 @@
 - 📝 [나도 한다 동시성 제어](DataBase/나도%20한다%20동시성%20제어.md)
 - 📝 [비관적 락, 낙관적 락](DataBase/비관적%20락,%20낙관적%20락.md)
 - 📝 [트랜잭션 격리 수준](DataBase/트랜잭션%20격리%20수준.md)
+- 📝 [트랜잭션의 ACID 속성과 격리 수준 이해하기](DataBase/트랜잭션의%20ACID%20속성과%20격리%20수준%20이해하기.md)
 
 ### 📁 Git
 - 📝 [Git Merge와 Rebase 이해하기](Git/Git%20Merge와%20Rebase%20이해하기%20브랜치%20동기화%20전략.md)
@@ -33,6 +34,8 @@
 - 📝 [Exception과 Error](Java/Exception과%20Error.md)
 - 📝 [Java의 참조](Java/Java의%20참조.md)
 - 📝 [String pool](Java/String%20pool.md)
+- 📝 [현재 실행 중인 메서드명 로깅하기](Java/현재%20실행%20중인%20메서드명%20로깅하기%20(Java%20Stack%20Trace).md)
+- 📝 [SLF4j 로깅 아키텍쳐 이해해보기](Java/SLF4j%20로깅%20아키텍쳐%20이해해보기.md)
 
 ### 📁 JWT
 - 📝 [About Session](JWT/About%20Session.md)
@@ -42,6 +45,9 @@
 
 ### 📁 Spring
 - 📝 [Spring schedule(Cron Expression)](Spring/Spring%20schedule(Cron%20Expression).md)
+
+### 📁 Tool
+- 📝 [인텔리제이에서 코드 변경 실시간 반영 설정하기](Tool/인텔리제이에서%20코드%20변경%20실시간%20반영%20설정하기.md)
 
 ### 📁 Windows
 - 📝 [Windows 개발 환경에서의 권한 문제 해결 가이드](Windows/Windows%20개발%20환경에서의%20권한%20문제%20해결%20가이드.md)
